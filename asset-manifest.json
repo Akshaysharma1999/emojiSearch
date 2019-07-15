@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/emojiSearch/static/js/main.e5b3d861.chunk.js",
+    "main.js.map": "/emojiSearch/static/js/main.e5b3d861.chunk.js.map",
+    "runtime~main.js": "/emojiSearch/static/js/runtime~main.916b5353.js",
+    "runtime~main.js.map": "/emojiSearch/static/js/runtime~main.916b5353.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "/emojiSearch/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "/emojiSearch/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "/emojiSearch/index.html",
+    "precache-manifest.279004b9681f21cdf8c7b2fc056c8011.js": "/emojiSearch/precache-manifest.279004b9681f21cdf8c7b2fc056c8011.js",
+    "service-worker.js": "/emojiSearch/service-worker.js"
+  }
+}
